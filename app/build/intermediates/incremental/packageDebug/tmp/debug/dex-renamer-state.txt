@@ -1,0 +1,4 @@
+#Mon Nov 15 22:39:20 CST 2021
+base.0=/Users/zhangyiren/Downloads/ThirdAndroidCourse-master/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
